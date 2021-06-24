@@ -48,7 +48,7 @@ h2{
     font-weight: 700;
 }
 header{
-    background-image: url(/img/personal-website/header-bg.png);
+    background-image: url(../img/personal-website/header-bg.png);
     background-repeat: no-repeat;
     
     background-size: cover;
@@ -58,7 +58,7 @@ header{
     height: 600px;
 }
 .bio{
-    background-image: url(/img/personal-website/biography-bg.png);
+    background-image: url(../img/personal-website/biography-bg.png);
     background-repeat: no-repeat;
     
     background-size: cover;
@@ -67,7 +67,7 @@ p{
     color:gray;
 }
 .letest{
-    background-image: url(/img/personal-website/latest-work-bg.png);
+    background-image: url(../img/personal-website/latest-work-bg.png);
     background-repeat: no-repeat;
     
     background-size: cover;
@@ -80,7 +80,7 @@ p{
     margin-top: 100px;
 }
 .foo{
-    background-image: url(/img/personal-website/footer-bg.png);
+    background-image: url(../img/personal-website/footer-bg.png);
     background-repeat: no-repeat;
     
     background-size: cover;
